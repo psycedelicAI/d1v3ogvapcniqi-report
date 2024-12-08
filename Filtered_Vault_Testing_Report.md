@@ -1,15 +1,6 @@
 
 # Vault Testing Results (Filtered Report)
 
-This document includes all methods and commands used, starting from the "Monster Prompt Template" section until the end, categorized by their impact on the system.
-
----
-
-## Monster Prompt Template
-This marks the beginning of the detailed prompt usage and methods tested. Below is a categorized view of what worked and what caused interruptions.
-
----
-
 ### Commands and Their Effects
 
 #### Successful or Interruptive Methods:
